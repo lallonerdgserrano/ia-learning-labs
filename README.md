@@ -9,6 +9,8 @@ Este repositorio reúne prácticas documentadas paso a paso relacionadas con her
 | Laboratorio                                                                                  | Descripción                                                                                                                                                               | Herramientas                                                            |
 | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | [Creación de proyecto en IBM Watson Studio y carga de dataset](ibm-watson-studio-risk-fraud) | Creación de un proyecto `Risk_Fraud` en IBM Watson Studio, aprovisionamiento de Cloud Object Storage, configuración de Watson Machine Learning y carga de un dataset CSV. | IBM Cloud, Watson Studio, Watson Machine Learning, Cloud Object Storage |
+| [Creación y ejecución de modelos AutoAI en IBM Watson Studio](ibm-watson-studio-autoai-risk-model/) | Creación de un experimento AutoAI para predicción de riesgo crediticio, configuración de la columna `Risk`, ejecución de modelos automáticos y revisión de curva ROC y matriz de confusión. | IBM Cloud, Watson Studio, AutoAI, Watson Machine Learning |
+
 
 ## Objetivo del repositorio
 
