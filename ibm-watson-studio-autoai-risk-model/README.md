@@ -397,7 +397,7 @@ Todo el procedimiento se realizó mediante la interfaz gráfica de IBM Watson St
 
 Este laboratorio demuestra la capacidad de trabajar con una plataforma cloud de inteligencia artificial, preparar un experimento de Machine Learning, ejecutar modelos automáticos y revisar resultados básicos de evaluación.
 
-Aunque es un laboratorio introductorio, aporta evidencia práctica en áreas como:
+Aporta evidencia práctica en áreas como:
 
 * Inteligencia Artificial aplicada
 * Análisis de datos
@@ -405,8 +405,6 @@ Aunque es un laboratorio introductorio, aporta evidencia práctica en áreas com
 * Machine Learning automatizado
 * Documentación técnica
 * Interpretación inicial de métricas de modelos
-
-Este tipo de práctica complementa un perfil técnico orientado a Soporte TI, Help Desk, Redes, Ciberseguridad defensiva junior e introducción a plataformas de IA.
 
 ---
 
